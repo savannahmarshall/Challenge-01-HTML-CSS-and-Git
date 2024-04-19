@@ -51,8 +51,7 @@ p {
 }
 
 
-
-#background {
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -70,7 +69,6 @@ p {
     float: right;
     margin-left: 25px;
 }
-
 
 
 .benefits {
