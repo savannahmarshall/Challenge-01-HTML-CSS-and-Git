@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*This is the beginning of the header tag*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-
+/*This is for the photo beneath the header and uses the figure tag*/
 .hero {
     height: 800px;
     width: 100%;
@@ -60,16 +60,8 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/*This is where the main tag begins which has been condensed to one single class of content-style inside the parent container named content*/
+/*The content inside the main tag is separated into individual sections that use the same class for styling*/
 .content {
     width: 75%;
     display: inline-block;
@@ -95,6 +87,18 @@ p {
     font-size: 36px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/*This is where the aside tag begins which has been condensed to one single class of benefit-style inside the parent container named benefits*/
+/*The content inside the aside tag is separated into articles, but each has the same style values so we can allow them to all have the same class*/
 
 .benefits {
     margin-right: 20px;
@@ -125,6 +129,7 @@ p {
     max-width: 150px;
 }
 
+/*This is where the footer tag begins*/
 footer {
     padding: 30px;
     clear: both;
