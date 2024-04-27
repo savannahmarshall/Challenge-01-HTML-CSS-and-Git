@@ -8,7 +8,7 @@ On this page, you can click on “Search Engine Optimization, Online Reputation 
 
 My original commits I made in git bash are in the 02 Challenge folder. I had to copy over my index.html code and style css because I was having issues with deployment and only my README was showing. 
 
-The link to the project is here: https://savannahmarshall.github.io/Horiseon-Website-Rework/
+The link to this project is here: https://savannahmarshall.github.io/Horiseon-Website-Rework/
 
 ![alt text](https://github.com/savannahmarshall/Horiseon-Website-Rework/blob/main/Challenge-1%20Screenshot.png)
 
