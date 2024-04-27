@@ -10,4 +10,6 @@ My original commits I made in git bash are in the 02 Challenge folder. I had to 
 
 The link to the project is here: https://savannahmarshall.github.io/Horiseon-Website-Rework/
 
+https://github.com/savannahmarshall/Horiseon-Website-Rework/blob/main/Challenge-1%20Screenshot.png
+
 
